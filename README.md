@@ -1,8 +1,6 @@
 # POTR POTS landing
 
-Write here about your project in two-three sentences.
-
-- [DEMO LINK](https:/ihorandrianov.github.io/landing-project)
+- [DEMO LINK](https://ihorandrianov.github.io/landing-project/)
 
 ## Description
 
